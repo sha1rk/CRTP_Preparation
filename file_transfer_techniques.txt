@@ -1,0 +1,33 @@
+From Linux to Windows:
+1. Using Webserver
+Kali(python HTTP server):host file on Kali 
+python3 -m http.server 80
+python2.7 -m SimpleHTTPServer 80
+
+Download on remote windows
+Windows {{
+check what is available and what can you run.
+
+if powershell is available 
+
+if certutil is available 
+
+if wget is available
+
+if 
+}}
+2. Using FTP server
+3. Using SMB Server
+4. Using Base64
+
+
+
+From Windows to Linux:
+1. Using Webserver
+2. Using FTP server 
+3. Using SMB Server/Shares
+4. Using Base64
+
+
+References: 
+LOLBAS
